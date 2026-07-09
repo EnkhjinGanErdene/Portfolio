@@ -48,10 +48,12 @@ assets/         Images (profile photo)
 
 5. **Visit your site**
    - After a minute or two, it will be live at:
-     `https://your-username.github.io`
+     `https://enkhjinganerdene.github.io/Portfolio/`
 
 ## Updating later
 Edit any `.html` file, commit, and push (or re-upload via the web UI) — GitHub Pages redeploys automatically within a minute or so.
+
+Website in https://enkhjinganerdene.github.io/Portfolio/
 
 ## Custom domain (optional)
 If you own a domain, add a `CNAME` file with your domain name, and point your domain's DNS to GitHub Pages following: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
